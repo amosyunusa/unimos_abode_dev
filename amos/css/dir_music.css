@@ -1,0 +1,228 @@
+body{
+	background-color:white;
+	font-family:arial, tohama, sans-serif;
+	font-size: 13px;
+	
+}
+h1{
+	margin-left:;	
+	text-shadow:#000 1px 1px;
+	position:absolute;
+	left:50px;
+	top:60px;
+}
+h2{
+	text-decoration:underline;
+	color:#000;
+	text-shadow:1px 1px #fff;
+
+
+}
+
+h3{
+
+	color:#000;
+	text-shadow:1px 2px #fff;
+
+}
+
+h6{
+	font-weight:bold;
+	font-size:12px;
+	text-decoration:underline;
+	
+}
+#menu{
+	background-color:#E8E8E8;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-bottom:1px dotted grey;
+	border-top:1px dotted grey;
+	
+	
+}
+
+#para{
+
+	background-color:#c7c7c7;
+
+
+}
+
+P{
+
+	background-color:#E8E8E8;
+
+}
+#duo{
+ 	color:orange;
+
+}
+
+#search{
+
+
+	float:right;
+	font-weight:bold;
+}
+
+
+.logo{
+	float:left;
+	position:absolute;
+	top:8px;
+	left:45px;
+	height:50px;
+	width:50px;
+
+}
+#php{
+
+
+	float:right;
+	margin-left:0.2%;
+	width:20%;
+	height:200px;
+	background-color:#000;
+	position:absolute;
+	top:300px;
+	right:3%;
+	border-radius:10px;
+	padding:10px;
+
+
+
+}
+
+h6{
+
+	color:orange;
+	text-align:right;
+	position:absolute;
+	top:85px;
+	right:35px;
+
+
+}
+.form{
+	width:50%;
+	height:350px;
+	background-color:#E6E6E6;
+	padding-top:10px;
+	border-radius:10px;
+	margin-top:10px;
+	border:1px solid silver;
+
+}	
+header{
+
+	width:100%;
+	background-color:crimson;
+	height:122px;
+	text-align:left;
+	color:#fff;
+	font-size: larger;
+	border:1px solid #fff;
+	
+}
+
+
+a:link{
+	
+	text-decoration: none;
+	background-color: #E8E8f9;
+	padding-left:10px;
+	padding-right: 10px;
+	padding-top:2px;
+	padding-bottom:2px;
+	font-weight:bold;
+}
+a:visited{
+    	color:#000;
+	text-decoration:none;
+	border: 0.1px solid #000;
+	background-color:#E8E8E8;
+}
+a:hover{
+	color:#fff;
+	text-decoration:none;
+	background-color:crimson;
+
+	
+}
+#container{
+	height:400px;
+	width:100%;
+	padding-top:20px;
+	background-color: #E8E8E8;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+#container2{
+	height:auto;
+	width:100%;
+	background-color: #E8E8E8;
+	float:left;
+	
+}
+
+.tabout{
+	border-radius:2px;
+	background-color: crimson;
+	width:1250px;
+	height:auto;
+}
+.wid{
+	width:125px;
+
+
+}
+ td {
+	
+	border:1px solid black;
+	border-spacing:0px;
+	padding-left:0px;
+	padding-right:0px;
+	color:#000;
+	font-weight:bold;
+	height:20px;
+	text-align:center;
+}
+#tr{
+	width:1250px;
+
+
+
+}
+
+th {
+    	background-color: black;
+    	color: white;
+	height:40px;
+	width:1250px;
+	font-size:12px;
+	
+}
+
+tr:nth-child(even) {
+	background-color: whitesmoke;
+}
+tr:nth-child(odd) {
+	background-color:#e8e8e8;
+	
+}
+
+#foot{
+	color:#fff;
+	text-align:center;
+	background-color:crimson;
+
+}
+#footer{
+	width:100%;
+	height:15%;
+	float:left;
+	background-color: crimson;
+	border-top:5px dotted #fff;
+	
+}
